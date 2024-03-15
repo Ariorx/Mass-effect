@@ -48,5 +48,8 @@
           <div class="card">
             <img src="https://i.pinimg.com/736x/8d/af/92/8daf923d12f5f988e5f7a92e999ed3f2.jpg">
           </div>
+          <div class="card">
+            <img src="https://sm.pcmag.com/t/pcmag_au/news/m/mass-effec/mass-effect-legendary-edition-officially-announced-for-2021_vrkr.1920.jpg">
+          </div>
     </div>
 
