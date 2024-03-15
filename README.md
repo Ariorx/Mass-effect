@@ -49,7 +49,7 @@
             <img src="https://i.pinimg.com/736x/8d/af/92/8daf923d12f5f988e5f7a92e999ed3f2.jpg">
           </div>
           <div class="card">
-            <img src="https://images7.alphacoders.com/610/610256.jpg)https://images7.alphacoders.com/610/610256.jpg">
+            <img src="https://images.wallpapersden.com/image/download/mass-effect-2021_bGpoZWeUmZqaraWkpJRmbmdlrWZlbWU.jpg">
           </div>
     </div>
 
